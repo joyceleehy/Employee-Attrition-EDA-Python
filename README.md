@@ -140,4 +140,9 @@ python-hr-attrition-eda/
 
 Created by **Joyce Lee How Yee** · [LinkedIn](https://www.linkedin.com/in/joyceleehowyee/) 
 
-· [Dataset Source](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+---
+
+## 📚 Dataset
+
+Dataset: [IBM HR Analytics Attrition Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) via Kaggle
+
