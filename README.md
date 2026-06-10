@@ -1,4 +1,4 @@
-# 📊 Employee Attrition Analysis with Python
+# 📊 Employee Attrition Exploratory Data Analysis | Python
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
