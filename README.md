@@ -138,11 +138,11 @@ python-hr-attrition-eda/
 
 ---
 
-## About Me
+## 📎 About Me
 
 Data Analyst with a background in People Analytics and BI. Currently open to Data Analyst, BI Analyst, and Analytics roles across industries.
 
-📎 [LinkedIn](https://www.linkedin.com/in/joyceleehowyee/) · [GitHub Portfolio](https://github.com/joyceleehy)
+ [LinkedIn](https://www.linkedin.com/in/joyceleehowyee/) · [GitHub Portfolio](https://github.com/joyceleehy)
 
 ---
 
