@@ -138,6 +138,12 @@ python-hr-attrition-eda/
 
 ---
 
+## 📚 Dataset
+
+Dataset: [IBM HR Analytics Attrition Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) via Kaggle
+
+---
+
 ## 📎 About Me
 
 Data Analyst with a background in People Analytics and BI. Currently open to Data Analyst, BI Analyst, and Analytics roles across industries.
@@ -145,8 +151,4 @@ Data Analyst with a background in People Analytics and BI. Currently open to Dat
  [LinkedIn](https://www.linkedin.com/in/joyceleehowyee/) · [GitHub Portfolio](https://github.com/joyceleehy)
 
 ---
-
-## 📚 Dataset
-
-Dataset: [IBM HR Analytics Attrition Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) via Kaggle
 
